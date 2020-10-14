@@ -1,1 +1,5 @@
-# H1 These are my notes for class
+# Notes
+## 
+1. notes
+1. notes
+1. notes
